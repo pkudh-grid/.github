@@ -1,4 +1,10 @@
-# PKUDH-GRID: Group for Research on Infrastructure in Digital Humanities
+<p align="center">
+  <img src="images/PKUDH-LOGO.svg" alt="PKUDH Logo" height="80" style="vertical-align: middle; margin-right: 20px;"/>
+  <img src="images/PKUDH-GRID-LOGO.svg" alt="PKUDH GRID Logo" height="80" style="vertical-align: middle; margin-left: 20px;"/>
+</p>
+
+<h1 align="center">PKUDH-GRID</h1>
+<p align="center" style="font-size: 1.2em; font-weight: bold;">Group for Research on Infrastructure in Digital Humanities</p>
 
 Welcome to the PKUDH-GRID GitHub repository. Our group is focused on the study and development of infrastructure for Digital Humanities (DH), combining technological innovation with scholarly research to push the boundaries of the field.
 
@@ -47,4 +53,3 @@ For more information, collaboration opportunities, or general inquiries, feel fr
 - **Email**: [gdhc@pku.edu.cn](mailto:gdhc@pku.edu.cn)
 
 ---
-

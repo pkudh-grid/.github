@@ -1,0 +1,23 @@
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%"
+  height="100%" viewBox="0 0 88.35 99.19" preserveAspectRatio="xMidYMid meet" color-interpolation-filters="sRGB"
+  style="margin: auto;">
+  <g fill="#333" class="icon-text-wrapper icon-svg-group iconsvg">
+    <g class="iconsvg-imagesvg" opacity="1">
+      <g>
+        <svg class="image-svg-svg primary" style="overflow: visible;">
+          <svg xmlns="http://www.w3.org/2000/svg"
+            viewBox="-0.0006564492359757423 -0.00027946484624408185 88.35065460205078 99.19093322753906">
+            <path d="M14.47 84.72a49.43 49.43 0 0 1-.57-69.31l.45-.45 69.89 69.88a49.43 49.43 0 0 1-69.77-.12z"
+              fill="#c12e34" fill-rule="evenodd" opacity=".7"></path>
+            <path d="M14.47 14.47a49.43 49.43 0 0 1 69.31-.57l.45.45-69.88 69.89a49.43 49.43 0 0 1 .12-69.77z"
+              fill="#e6b600" fill-rule="evenodd" opacity=".8"></path>
+            <path d="M14.35 84.24L49 49.6 14.35 15l-.45.45a49 49 0 0 0 .45 68.83z" fill="#0098d9" fill-rule="evenodd">
+            </path>
+            <path fill="#2b821d" opacity=".8" d="M62.35 41.89h26v57h-26z"></path>
+          </svg>
+        </svg>
+      </g>
+    </g>
+  </g>
+  <defs></defs>
+</svg>
